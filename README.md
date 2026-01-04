@@ -16,7 +16,7 @@ Este projeto foi desenvolvido durante o curso da **PrograMaria**, como atividade
 
 <p align="center">
 
-🌐 **[@SiteAda-Programaria](https://silviareis1.github.io/SiteAda-Programaria/)**  
+🌐 **[@SiteAda-Programaria](https://silviareis1.github.io/ADA-Programaria/)**  
 🌐 **[@PrograMaria](https://www.programaria.org/cursos-programaria/)**
 
 </p>
